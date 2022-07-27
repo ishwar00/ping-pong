@@ -6,7 +6,7 @@ import (
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
-	"github.com/ishwar00/rigidBodyDynamics/utils"
+	"github.com/ishwar00/simple-ping-pong-game/utils"
 )
 
 type Block struct {

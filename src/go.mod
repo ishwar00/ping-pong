@@ -1,4 +1,4 @@
-module github.com/ishwar00/rigidBodyDynamics
+module github.com/ishwar00/simple-ping-pong-game
 
 go 1.18
 
