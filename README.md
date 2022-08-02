@@ -2,7 +2,7 @@
 
 A simple two player game, written in [Go](https://go.dev/), using [Ebitengine](https://ebiten.org/) _a dead simple 2D game library for Go_.
 
-Intention to write this was to get an overview, before implementing in [Jack](https://drive.google.com/file/d/1rbHGZV8AK4UalmdJyivgt0fpPiD1Q6Vk/view) [here](https://github.com/ishwar00/NandToTetris/tree/main/nand2tetris/projects/09). 
+Intention to write this was to get an overview, before implementing in [Jack](https://drive.google.com/file/d/1rbHGZV8AK4UalmdJyivgt0fpPiD1Q6Vk/view) [here](https://github.com/ishwar00/NandToTetris/tree/main/nand2tetris/projects/09%20High-Level%20Language/ping-pong-game). 
 
 ![sample of game](ezgif.com-gif-maker.gif)
 
