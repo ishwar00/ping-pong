@@ -13,7 +13,7 @@ For _right player_ pressing up arrow key `↑` will go __up__, pressing down arr
 
 
 
-### How to play on your local machine
+### How to run
 make sure you have installed 
 - [Go](https://go.dev/dl/) (i used 1.18.3)
 - [ebitengine](https://ebiten.org/documents/install.html)
@@ -23,15 +23,8 @@ Run the following commands
 ```
 git clone https://github.com/ishwar00/simple-ping-pong-game.git
 cd simple-ping-pong-game/src
-```
-Don't forget to [set GOPATH](https://github.com/golang/go/wiki/SettingGOPATH).
-
-To compile source to binary into `$GOPATH/bin` folder.
-``` 
-go install
+go run main.go
 ```
 
-Finally run the command to launch the game.
-```
-../bin/simple-ping-pong-game
-```
+## TODO
+- [ ] make it multiplayer game (Client-Server Architecture)
