@@ -35,4 +35,3 @@ Finally run the command to launch the game.
 ```
 ../bin/simple-ping-pong-game
 ```
-
